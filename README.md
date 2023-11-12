@@ -1,6 +1,8 @@
 # roll_dice_app
 
-A new Flutter project.
+My first Flutter project.
+<br>
+Author - Avinash Renukunta
 
 ## Getting Started
 
